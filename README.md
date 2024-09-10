@@ -46,7 +46,8 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/9ceebfab-9591-4e7e-a00f-71789bd6c3ff)
+![Loki](https://github.com/user-attachments/assets/c637dba2-101f-417b-933f-b77994bba2a5)
+
 
 
 
@@ -68,7 +69,8 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/7df35d9a-1de4-4318-a919-c9a05c949752)
+![image](https://github.com/user-attachments/assets/0b3363a8-4b99-44de-af10-42c12185d31c)
+
 
 
 
@@ -88,7 +90,8 @@ Anaconda - Python 3.7
   <td>
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/1cbd6af8-6285-49db-8e85-0b20271ceaea)
+![image](https://github.com/user-attachments/assets/3d2347a2-875a-4cbe-b187-0c362c234e96)
+
 
 
 
@@ -117,7 +120,8 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-![image](https://github.com/user-attachments/assets/06dd9406-98a1-41e6-ab1e-ea8915753788)
+![Screenshot 2024-09-10 112626](https://github.com/user-attachments/assets/bc4fca87-bc64-458f-a160-10beacd786f6)
+
 
 
   </td>
@@ -141,7 +145,8 @@ Anaconda - Python 3.7
   <td>
     
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/5fbeda91-4883-4edf-84aa-a6430a6aa592)
+![Screenshot 2024-09-10 113159](https://github.com/user-attachments/assets/05eaf771-a0dd-42d1-aa72-056238f15d29)
+
 
 
   </td>
@@ -167,7 +172,8 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/053fe9c6-b61a-4ed5-817b-5e6566ee2a68)
+.;![Screenshot 2024-09-10 113400](https://github.com/user-attachments/assets/0d50f397-f07d-48fb-8bf1-e5a97d8bb1b0)
+
 
 
 
@@ -187,7 +193,8 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/75dd5ef8-0763-44cd-8249-0cbda3da66c4)
+![Screenshot 2024-09-10 113519](https://github.com/user-attachments/assets/6703d7cb-85ab-4e83-80b4-dd9e653ffd7d)
+
 
 
 ### viii) RGB and BGR to YCrCb
@@ -205,7 +212,8 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/9b7df28c-1314-4912-bb5e-c09a6b23e9c4)
+![Screenshot 2024-09-10 114204](https://github.com/user-attachments/assets/5174b84c-2dff-499a-81f2-683a47b2eeb1)
+
 
 
 
@@ -227,7 +235,8 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/ae437c97-44b0-458a-87da-3ce910cc0017)
+![Screenshot 2024-09-10 114331](https://github.com/user-attachments/assets/0cdbcdea-1f53-4d94-8b89-9f9d061bf326)
+
 
 
 
@@ -248,7 +257,9 @@ cv2.destroyAllWindows()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/7e9e36cd-2230-4a9c-8d0f-c453bc97513f)
+![Screenshot 2024-09-10 114425](https://github.com/user-attachments/assets/cebd3a61-265f-4d5e-a559-9667f2b10866)
+
+
 
 
 
